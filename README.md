@@ -11,5 +11,5 @@ A simple E-commerce website using Flask.
 2. Run main.py
 3. Enter localhost:5000 in the browser.
 
-### This is for Branch1 ###
-this should be visible only under branch1
+### This change was from Branch1 ###
+Merged master and branch successfully
