@@ -12,11 +12,4 @@ A simple E-commerce website using Flask.
 3. Enter localhost:5000 in the browser.
 
 ### This change was from Branch1 ###
-Merged master and branch successfully
-<<<<<<< HEAD
-just check
 
-adding this line by mistake,just to undo
-=======
-just check
->>>>>>> e7ef57f7a534cc0016bac7ffbc50b7bbc368fc99
